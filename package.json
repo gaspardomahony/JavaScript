@@ -1,0 +1,7 @@
+{
+  "name": "shelljs",
+  "version": "1.0.0",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
